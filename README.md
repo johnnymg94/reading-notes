@@ -14,6 +14,6 @@ Hi my name is Johnny, from Liverpool and i'm a student at Tech Educators.
 
 ##### What is Growth Mind Set?
 
-> A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+> "A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning."
 
 
