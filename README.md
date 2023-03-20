@@ -36,4 +36,4 @@ A Growth Mind set can be achieved using these five techniques:
 4. Criticism
 5. Success of others
 
-You can find my GitHub[HERE](https://github.com/johnnymg94)
+You can find my GitHub[HERE] (https://github.com/johnnymg94)
