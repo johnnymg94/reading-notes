@@ -10,6 +10,13 @@
 #### Introduction
 Hi my name is Johnny, from Liverpool and i'm a student at Tech Educators.
 
+My interests include
+
+- Music
+- Football
+- Art
+- Design
+
 #### **Growth Mindset**
 
 ##### What is Growth Mind Set?
@@ -22,7 +29,7 @@ Below is a comparision of a Growth Mind Set and a Fixed Mindset.
 
 ![Diagram demostraiting the difference between a Growth Mindset & a Fixed Mindset](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
 
-A Growth Mind set can be achieved using these five techniques
+A Growth Mind set can be achieved using these five techniques:
 1. Challenges
 2. Obstacles
 3. Effort
