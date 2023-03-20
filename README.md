@@ -20,4 +20,4 @@ A growth mindset is seen as opposing so a "Fixed Mindset" where it is believed t
 
 Below is a comparision of a Growth Mind Set & a Fixed Mindset.
 
-![Diagram demostraiting the difference between a Growth Mindset & a Fixed Mindset] (https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
+![Diagram demostraiting the difference between a Growth Mindset & a Fixed Mindset](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
