@@ -37,3 +37,5 @@ A Growth Mind set can be achieved using these five techniques:
 5. Success of others
 
 You can find my GitHub [HERE](https://github.com/johnnymg94)
+**code 102**
+[class-01 -Growth Mindset](httsp://johnnymg94.github.io/reading-notes/notes/code-102/102class01)
